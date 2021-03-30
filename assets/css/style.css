@@ -264,7 +264,7 @@ p {
           content: '';
           width: 8px;
           height: 4px;
-          background-color: #0067f4;
+          background-color: #1fe74a;
           left: 50%;
           margin: 0 2px;
           bottom: 14px;
@@ -284,7 +284,7 @@ p {
           left: auto;
           right: 50%; }
       .navgition .navbar .navbar-nav .nav-item.active > a, .navgition .navbar .navbar-nav .nav-item:hover > a {
-        color: #0067f4; }
+        color: #23e192; }
         .navgition .navbar .navbar-nav .nav-item.active > a::before, .navgition .navbar .navbar-nav .nav-item.active > a::after, .navgition .navbar .navbar-nav .nav-item:hover > a::before, .navgition .navbar .navbar-nav .nav-item:hover > a::after {
           opacity: 1; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -318,7 +318,7 @@ p {
         -o-transition: all 0.3s ease-out 0s;
         transition: all 0.3s ease-out 0s; }
         .navgition .navbar .navbar-social ul li a:hover {
-          color: #0067f4; }
+          color: #1fe74a; }
 
 .header-hero {
   height: 850px;
@@ -442,7 +442,7 @@ p {
 
 .services-content .services-icon i {
   font-size: 64px;
-  color: #0067f4; }
+  color: #0ab22f; }
 
 .services-content .services-content {
   padding-left: 15px; }
@@ -647,7 +647,7 @@ p {
     5.CALL TO ACTION css 
 ===========================*/
 .call-to-action {
-  background-color: #0067f4;
+  background-color: #1ab254;
   position: relative; }
 
 .call-action-image {
